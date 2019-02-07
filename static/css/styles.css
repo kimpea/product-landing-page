@@ -102,3 +102,33 @@ li {
 .btn {
     font-size: 20px !important;
 }
+
+/*-- Footer Styles --*/
+
+footer {
+    width: 100%;
+    min-height: 120px;
+    margin: 0;
+    background-color: #000;
+    font-size: 20px;
+    padding-top: 23px;
+}
+
+footer i {
+    color: #fafafa;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.social a {
+    align-items: baseline;
+}
+
+#copyright {
+    color: #fafafa;
+    margin-top: 5px;
+}
+
+.github {
+    padding-left: 15px;
+}
