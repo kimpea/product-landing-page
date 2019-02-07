@@ -42,3 +42,18 @@ body {
 .nav {
     font-size: 18px;
 }
+
+/*-- Discover Styles --*/
+
+.discover-content-one {
+    padding: 10px;
+    font-size: 24px;
+    color: #6B6B6B;
+}
+
+.discover-content-two {
+    padding: 10px;
+    font-size: 24px;
+    color: #6B6B6B;
+    display: flex;
+}
