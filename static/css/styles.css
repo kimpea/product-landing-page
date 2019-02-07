@@ -92,3 +92,13 @@ li {
 #products {
     font-size: 18px;
 }
+
+/*-- Subscribe Styles --*/
+
+.subscribe-statement {
+    font-size: 18px;
+}
+
+.btn {
+    font-size: 20px !important;
+}
