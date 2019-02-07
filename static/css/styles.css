@@ -78,3 +78,17 @@ h6 {
     color: #6B6B6B;
     display: flex;
 }
+
+/*-- Product Styles --*/
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+#products {
+    font-size: 18px;
+}
