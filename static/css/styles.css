@@ -1,0 +1,30 @@
+/*-- Google Fonts --*/
+
+@import url('https://fonts.googleapis.com/css?family=Karla|Noto+Sans:700');
+
+/*-- HTML & Body --*/
+
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    overflow: auto;
+    font-family: 'Karla', sans-serif !important;
+}
+
+#wrapper {
+    min-height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: #03A3F9;
+    padding-top: 100px !important;
+}
