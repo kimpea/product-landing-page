@@ -28,3 +28,17 @@ body {
     background-color: #03A3F9;
     padding-top: 100px !important;
 }
+
+/*-- Navigation Styles --*/
+
+#header-img {
+    width: 50%;
+}
+
+.navbar-brand {
+    width: 25%;
+}
+
+.nav {
+    font-size: 18px;
+}
