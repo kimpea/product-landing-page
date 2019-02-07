@@ -12,14 +12,14 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 - User Story #1: My product landing page should have a header element with a corresponding id="header". (Line 18)
 - User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here. (Line 21)
 - User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar". (Line 20)
-- User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link. (Lines 28 - 39)
-- User Story #5: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page. (Lines 28 - 39)
-- User Story #6: I can watch an embedded product video with id="video". (Line 78)
-- User Story #7: My landing page has a form element with a corresponding id="form". (Line 180)
-- User Story #8: Within the form, there is an input field with id="email" where I can enter an email address. (Line 182)
-- User Story #9: The #email input field should have placeholder text to let the user know what the field is for. (Line 183)
-- User Story #10: The #email input field uses HTML5 validation to confirm that the entered text is an email address. (Line 183)
-- User Story #11: Within the form, there is a submit input with a corresponding id="submit". (Line 184)
+- User Story #4: I can see at least three clickable elements inside the nav element, each with the class nav-link. (Lines 28 -41)
+- User Story #5: When I click a .nav-link button in the nav element, I am taken to the corresponding section of the landing page. (Lines 28 - 41)
+- User Story #6: I can watch an embedded product video with id="video". (Line 79)
+- User Story #7: My landing page has a form element with a corresponding id="form". (Line 181)
+- User Story #8: Within the form, there is an input field with id="email" where I can enter an email address. (Line 183)
+- User Story #9: The #email input field should have placeholder text to let the user know what the field is for. (Line 184)
+- User Story #10: The #email input field uses HTML5 validation to confirm that the entered text is an email address. (Line 184)
+- User Story #11: Within the form, there is a submit input with a corresponding id="submit". (Line 185)
 - User Story #12: When I click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit) that confirms the email address was entered and that it posted successfully.
 - User Story #13: The navbar should always be at the top of the viewport.
 - User Story #14: My product landing page should have at least one media query.
