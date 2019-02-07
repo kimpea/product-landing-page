@@ -27,3 +27,13 @@ You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is rec
 
 You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 Once you're done, submit the URL to your working project with all its tests passing.
+
+### Testing:
+
+I have passed the HTML and CSS code of this website through the W3C Validation Services - errors found have been corrected.
+This website is responsive on most popular devices' screen sizes, e.g. iPad and iPhone. 
+Since this was a freeCodeCamp project, it has been passed through freeCodeCamp's test suite. The Code Pen for this is [here]().
+
+### Deployment:
+
+This website can be viewed [here]() via GitHub Pages. 
