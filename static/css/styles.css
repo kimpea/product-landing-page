@@ -29,6 +29,27 @@ body {
     padding-top: 100px !important;
 }
 
+/*-- Headings --*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Sans', sans-serif !important;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+
 /*-- Navigation Styles --*/
 
 #header-img {
