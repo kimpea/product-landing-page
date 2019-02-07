@@ -32,8 +32,8 @@ Once you're done, submit the URL to your working project with all its tests pass
 
 I have passed the HTML and CSS code of this website through the W3C Validation Services - errors found have been corrected.
 This website is responsive on most popular devices' screen sizes, e.g. iPad and iPhone. 
-Since this was a freeCodeCamp project, it has been passed through freeCodeCamp's test suite. The Code Pen for this is [here]().
+Since this was a freeCodeCamp project, it has been passed through freeCodeCamp's test suite. The Code Pen for this is [here](https://codepen.io/kimaypea/pen/bzYpwG).
 
 ### Deployment:
 
-This website can be viewed [here]() via GitHub Pages. 
+This website can be viewed [here](https://kimpea.github.io/product-landing-page/) via GitHub Pages. 
